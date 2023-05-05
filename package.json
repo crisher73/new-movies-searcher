@@ -1,5 +1,6 @@
 {
   "name": "new-movies-searcher",
+  "homepage": "https://crisher73.github.io/new-movies-searcher/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,6 +55,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.1"
-  },
-  "homepage": "https://crisher73.github.io/new-movies-searcher"
+  }
 }

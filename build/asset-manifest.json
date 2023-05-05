@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/new-movies-searcher/static/css/main.83f843e5.css",
-    "main.js": "/new-movies-searcher/static/js/main.20b48887.js",
+    "main.js": "/new-movies-searcher/static/js/main.4ad0ca64.js",
     "index.html": "/new-movies-searcher/index.html",
     "main.83f843e5.css.map": "/new-movies-searcher/static/css/main.83f843e5.css.map",
-    "main.20b48887.js.map": "/new-movies-searcher/static/js/main.20b48887.js.map"
+    "main.4ad0ca64.js.map": "/new-movies-searcher/static/js/main.4ad0ca64.js.map"
   },
   "entrypoints": [
     "static/css/main.83f843e5.css",
-    "static/js/main.20b48887.js"
+    "static/js/main.4ad0ca64.js"
   ]
 }
